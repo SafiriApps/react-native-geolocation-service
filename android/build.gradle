@@ -31,5 +31,6 @@ dependencies {
 
   implementation "com.facebook.react:react-native:+"
   implementation 'androidx.appcompat:appcompat:1.0.2'
-  implementation "com.google.android.gms:play-services-location:$googlePlayServicesVersion"
+  // implementation "com.google.android.gms:play-services-location:$googlePlayServicesVersion"
+  implementation "com.google.android.gms:play-services-location:21.0.1"
 }
